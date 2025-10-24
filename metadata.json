@@ -1,0 +1,5 @@
+{
+  "name": "Real-time Poker Ledger",
+  "description": "A virtual poker chip management app for 3+ players to handle betting in real-time across different devices (simulated using browser tabs). It focuses on the betting mechanics and coin management.",
+  "requestFramePermissions": []
+}
